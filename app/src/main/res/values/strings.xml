@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Movie Mingle</string>
+    <string name="sign_up">Inscription</string>
+    <string name="password">Mot de passe</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="inscription_sur_l_application">Inscription sur l\'application</string>
+</resources>
